@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zoheb Khan # the website title (if blank, full name will be used instead)
-first_name: Zoheb
+title: zoheb khan # the website title (if blank, full name will be used instead)
+first_name: zoheb
 middle_name:
-last_name: Khan
+last_name: khan
 email: zoheballikhan@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chicken Biriyani on Internet(I am vegan, mom).

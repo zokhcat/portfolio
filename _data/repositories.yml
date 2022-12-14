@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ZohebMOPO
+  - Developer-Y
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - file-icons/icons
+  - mexili/incogly
+  - ossu/computer-science
+  - codecrafters-io/build-your-own-x
+  - sansyrox/robyn
+  - cfenollosa/os-tutorial
+  - agarrharr/awesome-cli-apps
+  - quii/learn-go-with-tests
