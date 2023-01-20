@@ -6,7 +6,7 @@ subtitle: A catboy and chicken biriyani on the internet.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   address: >
     <p>Odisha, India 769002</p>
