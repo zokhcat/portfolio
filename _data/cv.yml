@@ -4,18 +4,23 @@
     - name: Full Name
       value: Zoheb Alli Khan
     - name: Date of Birth
-      value: 25th Nov 2005
+      value: 25/11/2005
     - name: Languages
       value: Arabic, English, Hindi
 
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer Intern
+      institution: CloudQA
+      year: Mar 2023 - Present
+      description:
+        - Building applications using C#
     - title: Research Intern
       institution: International Institute of Information Technology, Bangalore
-      year: Oct 2022 - Present
+      year: Oct 2022 - Feb 2022
       description:
-        - building compiler systems. More updates soon.
+        - building compiler systems. Contributed to statechart-verification project
     - title: Hackathon Organizer
       institution: Limbo Hacks
       year: June 2021 - Nov 2021
@@ -26,6 +31,8 @@
     - title: Open Source Maintainer
       institution: Mexili
       year: June 2021 - Aug 2021
+      description:
+        - Redesigned the website of the project incogly, added multiple features like microphone serivce.
 
 - title: Academic Interests
   type: nested_list
@@ -34,12 +41,12 @@
       items:
         - Compilers and Interpreters
         - Algorithms
+        - Web Development
     - title: Psychology
       items:
-        - Artifical Intelligence
         - Autism Spectrum Disorder
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Music, Books(Self-help mostly) etc.
+    - <u>Hobbies:</u> Music, Books(Personal Development Mostly) etc.
