@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 17-year-old programmer who enjoys developing software. For the past three years, I have been involved in the programming community. I prefer to sleep. Check out [/r/unixporn](https://www.reddit.com/r/unixporn),[/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/).
 
-I am a software engineer intern at [CloudQA](https://cloudqa.io/). I wrote a book about building web apps!!! Take a look, [Hypebeast](https://notionpress.com/read/hypebeast).
+I did a software engineering internship at [CloudQA](https://cloudqa.io/). I wrote a book about building web apps!!! Take a look, [Hypebeast](https://notionpress.com/read/hypebeast).
 
 Finally, you are a wonderful person. I wish you a wonderful time with your friends. Everything will change in the direction you desire. You are deserving of everything. CBSE is a shambles. If Spotify's servers go down, I will have a mental breakdown. Checkout his music covers at [@ked.arx](https://www.instagram.com/ked.arx/).
