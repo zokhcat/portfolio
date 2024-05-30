@@ -12,6 +12,12 @@
   type: time_table
   contents:
     - title: Software Engineer Intern
+      institution: Helmer
+      year: Sep 2023 - Feb 2024
+      description:
+        - Worked on an internal developer tool, scap, which was a cross-platform screen-capture library.
+        - Developed little UI/UX of Helmer-Micro, MVP of Helmer.
+    - title: Software Engineer Intern
       institution: CloudQA
       year: Mar 2023 - Jun 2023
       description:
