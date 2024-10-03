@@ -16,8 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+### Recent Work
+
+- [bwdm](https://github.com/zokhcat/bwdm): Packet Sniffer built using Golang
+- [rustfuscator](https://github.com/zokhcat/rustfuscator): Javascript Obfuscator built over Rust
+- [ws-cli](https://github.com/zokhcat/ws-cli): CLI Web scrapper using rust
+- [bf-interpreter](https:/github.com/zokhcat/bf-interpreter): Brainfuck interpreter written in zig 🚧WIP🚧
+
 18-year-old programmer who enjoys developing software. For the past three years, I have been involved in the programming community. Check out [/r/unixporn](https://www.reddit.com/r/unixporn),[/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/). I am into fintech and developer toolchain products.
 
 I did a software engineering internship at [Helmer](https://helmer.app/). I wrote a book about building web apps!!! Take a look, [Hypebeast](https://notionpress.com/read/hypebeast).
 
-Interesting papers I read this month - [Graph Transformation in SWE](https://people.cs.pitt.edu/~chang/231/y11/papers/graphtrans.pdf), [Amazon's Dynamo DB](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+Interesting papers I read this month - [Memory Parallelism in Zig](https://arxiv.org/pdf/2409.20148), [Running Doom in GPT-4](https://arxiv.org/pdf/2403.05468)

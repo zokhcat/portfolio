@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Quoto
-description: Publish your quotes.
+title: pbudget
+description: Personal Budget API.
 img: assets/img/12.jpg
 importance: 1
-redirect: https://github.com/ZohebMOPO/quoto
+redirect: https://github.com/zokhcat/pbudget
 category: work
 ---
 

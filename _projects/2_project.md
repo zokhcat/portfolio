@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Create Hypebeast App
-description: Create hypebeast apps in one command
+title: bwdm
+description: Bandwidth Monitoring Tool
 img: assets/img/3.jpg
 importance: 2
-redirect: https://github.com/ZohebMOPO/create-hypebeast-app
+redirect: https://github.com/zokhcat/bwdm
 category: work
 ---
 

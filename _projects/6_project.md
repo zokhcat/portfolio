@@ -1,9 +1,9 @@
 ---
 layout: page
-title: JWT-auth
-description: JWT auth with GraphQL APIs and PostgreSQL database
+title: Slotflow
+description: simplying client communications and payments
 img: assets/img/10.jpg
 importance: 5
-redirect: https://github.com/ZohebMOPO/JWT-auth
+redirect: https://github.com/ohshinbhat/slotflow
 category: work
 ---
