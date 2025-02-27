@@ -11,6 +11,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Backend Engineer
+      institution: tickadoo
+      year: Oct 2024 - Jan 2025
+      description:
+        - Designed & Implemented scalable backend READ APIs using PostgresSQL & Golang for dynamic content generation
+        - Resolved availability issues in show listings by implementing an LRU caching strategy, reducing redundant DB queries
+        - Developed an automated tag generation system using Python and LangChain to generate relevant tags for a show/experience
     - title: Software Engineer Intern
       institution: Helmer
       year: Sep 2023 - Feb 2024
