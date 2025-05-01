@@ -18,10 +18,10 @@ social: true # includes social icons at the bottom of the page
 
 ### Recent Work
 
+- [zeroevict](https://github.com/zokhcat/): O(1) implementation of LFU Cache
 - [cdbe](https://github.com/zokhcat/cdbe): an implementation of columnar Database Engine
 - [bwdm](https://github.com/zokhcat/bwdm): Packet Sniffer built using Golang
 - [rustfuscator](https://github.com/zokhcat/rustfuscator): Javascript Obfuscator built over Rust
-- [ws-cli](https://github.com/zokhcat/ws-cli): CLI Web scrapper using rust
 
 19-year-old programmer who enjoys developing software. For the past three years, I have been involved in the programming community. Check out [/r/unixporn](https://www.reddit.com/r/unixporn),[/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/). I am into fintech and developer toolchain products.
 
