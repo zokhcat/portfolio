@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Recent Work
 
-- [zeroevict](https://github.com/zokhcat/): O(1) implementation of LFU Cache
+- [zeroevict](https://github.com/zokhcat/zeroevict): O(1) implementation of LFU Cache
 - [cdbe](https://github.com/zokhcat/cdbe): an implementation of columnar Database Engine
 - [bwdm](https://github.com/zokhcat/bwdm): Packet Sniffer built using Golang
 - [rustfuscator](https://github.com/zokhcat/rustfuscator): Javascript Obfuscator built over Rust
