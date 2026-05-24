@@ -1,0 +1,85 @@
+.page {
+  max-width: 36rem;
+  margin: 0 auto;
+  padding: 4rem 1.5rem 6rem;
+}
+
+.block {
+  margin: 0 0 3rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.75rem;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 1rem;
+  font-family: 'EB Garamond', Garamond, serif;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+.lede {
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--fg);
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.list li {
+  padding: 1.25rem 0;
+  border-top: 1px solid var(--rule);
+}
+
+.list li:last-child {
+  border-bottom: 1px solid var(--rule);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.row-right {
+  color: var(--muted);
+  font-variant-numeric: oldstyle-nums;
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .page {
+    padding: 2.5rem 1.25rem 4rem;
+  }
+
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  .row {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+}
