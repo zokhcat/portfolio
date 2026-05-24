@@ -11,7 +11,7 @@ const notes: Note[] = [
     date: 'May 2026',
     title: 'humans',
     body: [
-      'they are inherently quite complex & selfish. we should put always put an effort to understand and simplify.',
+      'they are inherently quite complex & selfish. we should always put an effort to understand and simplify.',
       'systems should be built around improving human experiences in communally not individually.',
       'taste is used as a weapon for class distinction. there is massive amounts of money spent on creating cultural capital.'
     ],
